@@ -5,3 +5,9 @@ We utilized the ReactJS framework with Redux for the project.
 
 
 
+
+
+
+https://user-images.githubusercontent.com/38975177/209309288-ed9aab61-503e-48ed-9849-afd5677f7a77.mp4
+
+
